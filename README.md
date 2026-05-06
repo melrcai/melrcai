@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=melrcai&label=Profile%20views&color=7a061a&style=flat" alt="melrcai" /> </p> 
+
+
+<div align="center"> 
+  
   ![snake gif](https://github.com/melrcai/melrcai/blob/output/github-snake-dark.svg)
 
 </div>
