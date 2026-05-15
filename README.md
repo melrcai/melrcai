@@ -1,4 +1,3 @@
-## Ionknow what to put here yet
 
 <!--
 **melrcai/melrcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +15,16 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=melrcai&label=Profile%20views&color=7a061a&style=flat" alt="melrcai" /> </p> 
+<div align="center">
+  <img src="https://media.tenor.com/nVwnoY-M36oAAAAj/white-cat.gif" width="100" />
+  <h3>Hi, I'm Melissa <br>
+  Aspiring Software Engr.</h3> 
+  
+  ---
 
+  <p>Currently a 1st year student at Polytechnic University of the Philippines Manila.</p>
+  <p> <img src="https://komarev.com/ghpvc/?username=melrcai&label=Profile%20views&color=7a061a&style=flat" alt="melrcai" /> </p> 
+ </div> 
 
 <div align="center"> 
   
