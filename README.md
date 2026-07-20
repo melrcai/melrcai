@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   ---
 
-  <p>Currently a 1st year student at Polytechnic University of the Philippines Manila.</p>
+  <p>Currently a 2nd year student at Polytechnic University of the Philippines Manila.</p>
   <p> <img src="https://komarev.com/ghpvc/?username=melrcai&label=Profile%20views&color=7a061a&style=flat" alt="melrcai" /> </p> 
  </div> 
 
